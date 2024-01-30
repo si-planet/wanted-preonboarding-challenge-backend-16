@@ -39,3 +39,6 @@ out/
 ### Docker ####
 Dockerfile_bak
 
+### 용량 큰 소스 데이터들 제외 ###
+data/
+.metadata/
